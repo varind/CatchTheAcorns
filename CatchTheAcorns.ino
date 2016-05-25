@@ -1,5 +1,7 @@
 /*
    Catch the Acorns by Ben Lipsey www.varind.com 2016. This code is public domain, enjoy!
+   https://github.com/varind/CatchTheAcorns
+   
    Uses an Arduino, a 16x2 LCD, 3 buttons, 5 NeoPixels, and a piezo 
 */
 #include <EEPROM.h>
